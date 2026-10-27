@@ -1,5 +1,9 @@
 # Quasar — Cross-Platform Subdomain Enumeration Framework
 
+<p align="center">
+  <img src="https://github.com/Th3BlackHol3/Quasar/blob/main/Quasar%20by%20Th3BlackHol3.gif">
+</p>
+
 **Quasar** is a Python-based command-line framework that orchestrates subdomain discovery tools, consolidates and validates their results, removes duplicates, and checks discovered hostnames for responsive HTTP/HTTPS services. It is designed for authorized penetration testing, bug bounty reconnaissance, and attack-surface management.
 
 **Developed by:** [Th3BlackHol3](https://github.com/Th3BlackHol3)  
