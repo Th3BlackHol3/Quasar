@@ -1,0 +1,2 @@
+# The orchestration framework uses only the Python standard library.
+# Integrated third-party tools are managed and verified separately by the application.

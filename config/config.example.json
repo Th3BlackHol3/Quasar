@@ -1,0 +1,14 @@
+{
+  "auto_install": true,
+  "tool_timeout": 600,
+  "source_timeout": 30,
+  "source_max_minutes": 5,
+  "httpx_timeout": 8,
+  "httpx_threads": 10,
+  "httpx_retries": 1,
+  "include_apex": false,
+  "strict_dependencies": false,
+  "httpx_details": false,
+  "resolvers_file": null,
+  "trusted_resolvers_file": null
+}
